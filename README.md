@@ -1,2 +1,4 @@
 # STONE-PAPER-SCISSOR-GAME
-Using Java Script 
+
+### DEMO OF - WIN 
+![Win Image](RESULT/win.png)
